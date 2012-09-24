@@ -1,1 +1,4 @@
-A MediaWiki-based wiki for the Inclusive Design website.
+wiki.inclusivedesign.ca
+=======================
+
+A MediaWiki-based wiki for the IDI site
